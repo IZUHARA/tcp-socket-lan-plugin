@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TCPSocketLANPlugin-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\NMSZone7Client 4.26\Intermediate\Build\Win64\NMSZone7ClientEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealProjects\NMSZone7Client 4.26\Plugins\TCPSocketLANPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPSocketLANPlugin\Module.TCPSocketLANPlugin.cpp.obj"
+"D:\UnrealProjects\NMSZone7Client 4.26\Plugins\TCPSocketLANPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPSocketLANPlugin\Module.TCPSocketLANPlugin.gen.cpp.obj"
+"D:\UnrealProjects\NMSZone7Client 4.26\Plugins\TCPSocketLANPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPSocketLANPlugin\Default.rc2.res"
+/OUT:"D:\UnrealProjects\NMSZone7Client 4.26\Plugins\TCPSocketLANPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPSocketLANPlugin\UE4Editor-TCPSocketLANPlugin-0004.lib"
+/INCLUDE:IMPLEMENT_MODULE_TCPSocketLANPlugin

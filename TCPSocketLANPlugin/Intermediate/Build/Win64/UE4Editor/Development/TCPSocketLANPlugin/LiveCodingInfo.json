@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TCPSocketLANPlugin.cpp.obj": [
+			"TCPSocketActor.cpp.obj",
+			"TCPSocketLANPlugin.cpp.obj"
+		],
+		"Module.TCPSocketLANPlugin.gen.cpp.obj": [
+			"TCPSocketActor.gen.cpp.obj",
+			"TCPSocketLANPlugin.init.gen.cpp.obj"
+		]
+	}
+}
