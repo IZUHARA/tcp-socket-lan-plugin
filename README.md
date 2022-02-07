@@ -19,6 +19,5 @@ These can be found in the Plugins folder.
 ![image](https://user-images.githubusercontent.com/6723718/144823129-c8e71aec-6ae6-4f24-8d4c-66dedbb57c84.png)
 
 ### Issues
-1) May not work on Android builds.
-2) Example map is missing a TCPSocketActor.
+None.
 
