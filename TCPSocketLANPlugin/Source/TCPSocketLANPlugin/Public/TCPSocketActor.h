@@ -60,6 +60,7 @@ CHANGELOG:
 #include "Runtime/Networking/Public/Interfaces/IPv4/IPv4Address.h"
 //#include "Core/Public/HAL/Runnable.h" //FRunnable
 #include "HAL/Runnable.h"
+#include "HAL/RunnableThread.h"
 #include "GenericPlatform/GenericPlatformMisc.h" //TFunction
 #include "Delegates/Delegate.h"
 #include "Containers/Queue.h"
